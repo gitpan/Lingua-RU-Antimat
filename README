@@ -1,4 +1,4 @@
-Lingua/RU/Antimat version 0.20
+Lingua/RU/Antimat version 1.00
 ==============================
 
 
@@ -24,7 +24,7 @@ FileHandle
 
 COPYRIGHT AND LICENCE
 
-Copyright 2001 Ilya Soldatkin. All rights reserved.
+Copyright 2001-2003 Ilya Soldatkin. All rights reserved.
 
 This library is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
